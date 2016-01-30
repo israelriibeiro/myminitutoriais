@@ -91,7 +91,7 @@ presenting the operation’s form, too.
 ```
 ## Representers
 When defining properties in a contract Reform internally uses the Representable gem to create a representer for the form.
-----------------------------------------------------------------------------------------------------------------------------
+
 ## Controllers
 ```
 1 class ThingsController < ApplicationController
